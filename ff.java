@@ -12,6 +12,7 @@ n=Integer.parseInt(pr.readLine());
 for(i=1;i<=n;i++)
 {
 System.out.println("Select your option");
+System.out.println("1.VEG list 2.NON VEG list");
 a=Integer.parseInt(pr.readLine());
 switch(a)
 {
